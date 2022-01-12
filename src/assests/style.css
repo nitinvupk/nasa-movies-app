@@ -1,0 +1,40 @@
+.tableBody {
+    background-color: white;
+  }
+  
+  .tableHead {
+    background-color: rgb(0, 0, 0, 0.9);
+    color: white;
+  }
+  
+  .selectTableDiv {
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 5px;
+  }
+  
+  .mainDiv .table th {
+    padding: 0.2rem 0.5rem !important;
+    border-width: 0;
+  }
+  .Paragraph {
+    text-align: left;
+  }
+  
+  .banner-text {
+    position: absolute;
+    bottom: 8px;
+    color: white;
+    left: 35px;
+    right: 35px;
+    border-radius: 4px;
+  }
+  
+  .btn-cls {
+    border: 0px;
+  }
+  
+  .anchor-tag-color {
+    color: black;
+  }
+  
